@@ -1,6 +1,7 @@
 # Portfolio Manager
 
-![Portfolio Manager Demo](./demo/portfolio_manger_demo.gif)
+![Portfolio Manager Demo](https://github.com/user-attachments/assets/a31a6894-68ea-4c9d-ac8f-4b7b8b6d2752)
+
 
 A command-line tool to track and manage stock transactions with real-time market data integration.
 
