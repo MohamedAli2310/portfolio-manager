@@ -17,15 +17,19 @@ A command-line tool to track and manage stock transactions with real-time market
 
 1. Clone or download this repository
 2. Install required dependencies:
-pip install pandas yfinance colorama
+   
+`pip install pandas yfinance colorama`
+
 
 ## Usage
 
 ### Basic Usage
-python manager.py
+
+`python manager.py`
 
 ### Offline Mode (No Market Data)
-python manager.py --offline
+
+`python manager.py --offline`
 
 ### Menu Options
 
